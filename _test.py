@@ -38,4 +38,4 @@ def test_fifth():
 def test_invalid_input():
     with pytest.raises(TypeError):
         square("string")
-
+        
